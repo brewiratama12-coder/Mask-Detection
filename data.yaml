@@ -1,0 +1,8 @@
+names:
+- with_mask
+- without_mask
+- mask_weared_incorrectly
+nc: 3
+path: ./dataset_yolo
+train: train/images
+val: val/images
